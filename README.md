@@ -34,7 +34,7 @@ Finally, we leveraged Excel to create an interactive and visually informative da
 * Incorporating slicers and filters for user interaction, enabling dynamic exploration of data.
 * Ensuring real-time data updates through data connections, maintaining the dashboard's relevance.
 
-![image](https://github.com/amit9690/Road-Accident-Analysis---Excel-Dashboard/assets/129444885/ba14d7e3-b828-41d9-9164-7ca12f20de0c)
+![image](road_accident.png)
 
 # Insights 🎯:
 
