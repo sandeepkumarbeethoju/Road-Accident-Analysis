@@ -78,8 +78,6 @@ Here are the insights from the UK road accident dashboard:
 * Balancing aesthetics with clear labels and interactive features.
 
 
-##### If you have any queries regarding this project feel free to contact me over Linkedin 🌐 - https://bit.ly/3QLfBEz
-
 
 #### 🤝 __Thank You for visiting my project page.__
 
