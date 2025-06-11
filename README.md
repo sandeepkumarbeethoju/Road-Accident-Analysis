@@ -5,15 +5,8 @@
 
 📌 Project Name: Road Accident Analysis
 
-👥 Team Members: Amit Porwal(Self Created Project)
-
-🎓 Mentored by: Ajay Kumar Gupta
-
 🔧 skills required: Advance Excel, EDA, Dashboard, Power Query
 
-📅 Project start Date: 28/07/2023
-
-📅 Project end Date: 30/07/2023
 
 # Project Description 📝:
 
